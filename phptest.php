@@ -1,22 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
-  <meta name="description" content="Webpage description goes here" />
-  <meta charset="utf-8">
-  <title>PHP</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="2boltz" content="">
+	<meta charset="utf-8">
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-
 <body>
-  
-<div class="container">
-  
-</div>
-
-<script>
-</script>
-
+  <?php
+  echo "hi"
+  ?>
 </body>
 </html>
