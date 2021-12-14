@@ -7,7 +7,6 @@
   <title>PHP</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="2boltz" content="">
-  <link rel="stylesheet" href="css/default.css">
 </head>
 
 <body>
