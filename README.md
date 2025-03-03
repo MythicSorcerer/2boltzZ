@@ -1,19 +1,22 @@
 - 👋 Hi, I’m @2boltzZ
 - 👀 I’m interested in 
-  - php: currently novice
-  - python: between beginer and intermediate
-  - websites: used to own a domain
+  - PHP: currently novice
+  - HTML: mostly proficient
+  - CSS: somewhat proficient
+  - JS: currently novice
+  - PJS: proficent
+  - python: intermediate
+  - ACSL: Junior Division
+  - Cses.fi: 18 problems solved
+  - Websites: owns mythic.ddns.net
   
 - 🌱 I’m currently learning
   - PHP
-  - Python
+  - JS
   - CSS
 - 💞️ I’m looking to collaborate on 
-  - Nothing yet
+  - Web development
 - 📫 How to reach me
   - email.
+  - discord
 
-<!---
-2boltzZ/2boltzZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
